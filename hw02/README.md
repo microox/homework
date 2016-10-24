@@ -22,7 +22,7 @@ apply those principles that already have been covered in the lecture so far).
 Your task is to implement a library that allows your clients to develop
 forms to conduct surveys. Here is an example of such a survey form.
 
-<img src="example-survey.jpg" alt="Example of a simple survey with two questions. The user is asked to enter (a) its name and (b) its favorite programming language." width="15em" />
+<img src="example-survey.jpg" alt="Example of a simple survey with two questions. The user is asked to enter (a) its name and (b) its favorite programming language." width="250px" />
 
 In this first step, you will implement the basic functionality of the survey
 library. You do not need to implement more than is covered in the following user
