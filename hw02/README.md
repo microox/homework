@@ -9,7 +9,7 @@ working on your homework assignment:
   https://classroom.github.com/group-assignment-invitations/d1a1c33b9a5e2cd0aad4c3a716dd9642
 
 You can hand in your homework in either english or german. See the slides of
-lab 3 for how to hand in your assignment.
+[lab 2](https://github.com/ps-tuebingen-sdpt-2016/lecture-notes/blob/master/lab/lab02.pdf) for how to hand in your assignment.
 
 ## Task 1. Designing a Library for Surveys (Part I)
 
