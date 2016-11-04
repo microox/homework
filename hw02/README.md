@@ -103,7 +103,7 @@ your product:
           - the text includes the name and description of the survey
           - the text includes all question texts
           - after every question text there should be some space to fill
-            in the question by hand
+            in the answer by hand
       ------------------------------------------------------------------------
 
 #### Story #4
